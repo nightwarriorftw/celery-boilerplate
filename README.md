@@ -1,5 +1,5 @@
 
-[![Open Issues](https://img.shields.io/github/issues/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/issues) [![Forks](https://img.shields.io/github/forks/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/network/members) [![Stars](https://img.shields.io/github/stars/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=reverbnation)](https://github.com/nightwarriorftw/celery-boilerplate/stargazers) ![Maintained](https://img.shields.io/maintenance/yes/2021?style=for-the-badge&logo=github) ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet?style=for-the-badge&logo=python)(http://ForTheBadge.com) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi) [![Follow Me](https://img.shields.io/twitter/follow/nightwarriorftw?color=blue&label=Follow%20%40nightwarriorftw&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=nightwarriorftw) [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=for-the-badge&logo=telegram)](https://telegram.me/nightwarriorftw)
+[![Open Issues](https://img.shields.io/github/issues/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/issues) [![Forks](https://img.shields.io/github/forks/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/network/members) [![Stars](https://img.shields.io/github/stars/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=reverbnation)](https://github.com/nightwarriorftw/celery-boilerplate/stargazers) ![Maintained](https://img.shields.io/maintenance/yes/2021?style=for-the-badge&logo=github) ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet?style=for-the-badge&logo=python)![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi) [![Follow Me](https://img.shields.io/twitter/follow/nightwarriorftw?color=blue&label=Follow%20%40nightwarriorftw&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=nightwarriorftw) [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=for-the-badge&logo=telegram)](https://telegram.me/nightwarriorftw)
 
 
 <br />
@@ -19,17 +19,17 @@
 ## :ledger: Index
 
 - [About](#beginner-about)
-- [Built with](#wrench)
-- [Installation](#nut_and_bolt)
+- [Built](#wrench-built)
+- [Installation](#nut_and_bolt-installation)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 - [License](#lock-license)
 
 
-## :beginner: About The Project
+## :beginner: About
 
 This is a simple django celery boilerplate.
 
-### :wrench: Built With
+### :wrench: Built
 
 Built using django, celery, rabbitMQ
 
