@@ -1,24 +1,11 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![Open Issues](https://img.shields.io/github/issues/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/issues) [![Forks](https://img.shields.io/github/forks/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=github)](https://github.com/nightwarriorftw/celery-boilerplate/network/members) [![Stars](https://img.shields.io/github/stars/nightwarriorftw/celery-boilerplate?style=for-the-badge&logo=reverbnation)](https://github.com/nightwarriorftw/celery-boilerplate/stargazers) ![Maintained](https://img.shields.io/maintenance/yes/2021?style=for-the-badge&logo=github) ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet?style=for-the-badge&logo=python) [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=for-the-badge&logo=open-source-initiative) ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A5-critical?style=for-the-badge&logo=ko-fi) [![Follow Me](https://img.shields.io/twitter/follow/nightwarriorftw?color=blue&label=Follow%20%40nightwarriorftw&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=nightwarriorftw) [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=for-the-badge&logo=telegram)](https://telegram.me/nightwarriorftw)
 
 
 <br />
 <p align="center">
   <a href="https://github.com/nightwarriorftw/celery-boilerplate">
-    <img src="./public/img/django_celery_boilerplate_logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/img/django_celery_boilerplate_logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Celery Boilerplate</h3>
@@ -29,37 +16,15 @@
   </p>
 </p>
 
+## :ledger: Index
+
+- [About](#beginner-about)
+- [Built with](#wrench)
+- [Installation](#nut_and_bolt)
+- [Credit/Acknowledgment](#star2-creditacknowledgment)
+- [License](#lock-license)
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## :beginner: About The Project
 
 This is a simple django celery boilerplate.
@@ -92,6 +57,7 @@ source <path to your virtual env>/bin/activate
 Generally, <path to the virtual env> is `/home/<username>/.cache/pypoetry/virtualenvs/<name of your virtual env>`
 
 - Install requirements
+
 While remaining inside source code root folder run :
 ```
 poetry install
@@ -129,7 +95,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-#### Celery and Cronjob
+#### Celery
 
 Open another terminal and run the following command 
 
@@ -158,19 +124,3 @@ Credits goes to me
 ## :lock: License
 
 [LICENSE](/LICENSE)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/nightwarriorftw/celery-boilerplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/nightwarriorftw/celery-boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nightwarriorftw/celery-boilerplate.svg?style=for-the-badge
-[forks-url]: https://github.com/nightwarriorftw/celery-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/nightwarriorftw/celery-boilerplate.svg?style=for-the-badge
-[stars-url]: https://github.com/nightwarriorftw/celery-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nightwarriorftw/celery-boilerplate.svg?style=for-the-badge
-[issues-url]: https://github.com/nightwarriorftw/celery-boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/nightwarriorftw/celery-boilerplate.svg?style=for-the-badge
-[license-url]: https://github.com/nightwarriorftw/celery-boilerplate/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/developer-aman-verma
